@@ -1,2 +1,2 @@
 # adventOfCode2025
-adventOfCode2025
+https://adventofcode.com/2025/day/1#part2
